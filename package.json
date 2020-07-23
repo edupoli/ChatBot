@@ -1,0 +1,25 @@
+{
+  "name": "chatbot-whatsapp",
+  "version": "1.0.0",
+  "description": "Projeto de ChatBot para atendimento da SEMA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Policarpo",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edupoli/chat-whatsapp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edupoli/chat-whatsapp/issues"
+  },
+  "homepage": "https://github.com/edupoli/chat-whatsapp#readme",
+  "dependencies": {
+    "@fnando/cpf": "^1.0.1",
+    "mysql": "^2.18.1",
+    "validator": "^13.1.1",
+    "venom-bot": "^1.0.9"
+  }
+}
