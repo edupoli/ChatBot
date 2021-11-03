@@ -19,7 +19,7 @@
   "dependencies": {
     "@fnando/cpf": "^1.0.1",
     "mysql": "^2.18.1",
-    "validator": "^13.1.1",
+    "validator": "^13.7.0",
     "venom-bot": "^1.0.9"
   }
 }
